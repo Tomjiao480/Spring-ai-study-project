@@ -1,0 +1,8 @@
+server:
+  port: 8321
+spring:
+  ai:
+    # Key分享自：https://pgthinker.me/2023/10/03/196/
+    openai:
+      api-key: sk-ba5wabFMCaXe5O4LyhIxyh9JtWQXbuMDhGEWDHrRwRMCCbMt
+      base-url: https://api.kwwai.top
